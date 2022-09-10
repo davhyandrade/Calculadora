@@ -1,5 +1,7 @@
 # Calculadora
 
+> Status: Concluded
+
 <img src="https://i.postimg.cc/WzWDPQxW/calculadora.png" width="100%">
 
 Desenvolvido pelo:
