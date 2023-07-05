@@ -73,11 +73,6 @@ body {
   font-size: 2.5rem;
   color: white;
 }
-@media screen and (max-width: 799px) {
-  .content-calculadora .output {
-    width: 93%;
-  }
-}
 .content-calculadora .operator {
   background-color: #5f6368;
 }
