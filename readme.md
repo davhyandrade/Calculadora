@@ -1,5 +1,9 @@
 # Calculadora
 
+> Status: Concluded
+
+<img src="https://i.postimg.cc/WzWDPQxW/calculadora.png" width="100%">
+
 Desenvolvido pelo:
 
 * HTML
@@ -9,8 +13,6 @@ Desenvolvido pelo:
 * JavaScript
 
 Ao qual foi trabalhado lógica de programação dando vida a uma Calculadora.
-
-<img src="https://i.postimg.cc/WzWDPQxW/calculadora.png" width="550px">
 
 ##
 
