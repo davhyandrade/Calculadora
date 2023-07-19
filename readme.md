@@ -2,6 +2,12 @@
 
 > Status: Concluded
 
+<div align="right">
+  <sub>Create in</sub>  
+  
+  `06/10/2021`
+</div>
+
 <img src="https://i.postimg.cc/WzWDPQxW/calculadora.png" width="100%">
 
 Desenvolvido pelo:
